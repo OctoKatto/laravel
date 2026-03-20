@@ -1,0 +1,7 @@
+{
+  "name": "Laravel Image",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+  // other configuration options
+}
